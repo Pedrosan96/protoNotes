@@ -1,0 +1,7 @@
+syntax = "proto3"
+
+message Lati_Longi{
+	double Latitude = 1;
+	double Longitude = 2;
+
+}
