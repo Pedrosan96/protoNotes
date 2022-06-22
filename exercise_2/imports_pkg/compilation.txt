@@ -1,0 +1,4 @@
+For compilation you need to be location in the carpet "imports_pkg" and run the
+followung command: 
+
+protoc --cpp_out=. *.proto
