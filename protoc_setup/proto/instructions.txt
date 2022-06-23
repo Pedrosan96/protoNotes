@@ -1,0 +1,2 @@
+To compile and generate java and python code use:
+	 protoc --java_out=java --python_out=python proto/simple.proto 

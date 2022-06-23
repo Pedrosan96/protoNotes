@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message Simple{
+
+	uint32 id = 1;
+}
